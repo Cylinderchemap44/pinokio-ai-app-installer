@@ -8,7 +8,7 @@ ____  _             __   _
 
 # Pinokio
 
-> one click ai install.
+> one click ai install. for Windows
 
 **pinokio** | **ai-installer** | **one-click-install** | **ai-tools** | **desktop-app** | **automation**
 
@@ -18,9 +18,9 @@ ____  _             __   _
 
 - one click ai install.
 - Full build: pinokio tutorial, pinokio download, one click ai install, pinokio setup, ai installer.
-- Platform: Windows macOS
+- Platform: Windows 10/11 x64
 
-**Platform:** Windows macOS
+**Platform:** Windows 10/11 x64
 
 ---
 
